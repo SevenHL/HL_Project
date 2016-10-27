@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  HLWebImage
+//  Alipay_xyx
 //
-//  Created by 罗浩林 on 16/10/23.
+//  Created by 罗浩林 on 16/10/27.
 //  Copyright © 2016年 罗浩林. All rights reserved.
 //
 

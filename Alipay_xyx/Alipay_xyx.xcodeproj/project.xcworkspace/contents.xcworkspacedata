@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HLWebImage.xcodeproj">
+      location = "self:Alipay_xyx.xcodeproj">
    </FileRef>
 </Workspace>
